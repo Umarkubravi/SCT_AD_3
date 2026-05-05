@@ -1,1 +1,7 @@
-# SCT_AD_3
+## Stopwatch App
+
+Features:
+- Start Timer
+- Pause Timer
+- Reset Timer
+- Shows Minutes, Seconds, Milliseconds
